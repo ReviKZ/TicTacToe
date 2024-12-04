@@ -14,5 +14,5 @@ Bár AI-nak hívom, azért ez a valós AI-nak egy *butább* változata.
 A Random AI, ami a tábla keretein belül valahová megteszi a saját lépését.
 A Legyőzhetelen AI előre definiált lépésekre reagálva választ a saját lehetséges lépései közül.
 
-**Programnyelv**: Python 3
+**Programnyelv**: Python 3 <br/>
 **Futtatási környezet**: CLI
